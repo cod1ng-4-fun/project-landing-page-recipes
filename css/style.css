@@ -152,6 +152,11 @@ button{
     font-size: 1.25rem;
     color: white;
 }
+button:hover{
+    text-decoration: underline;
+    border: solid white 3px;
+    cursor: pointer;
+}
 footer{
     height: 75px;
     background-color: rgb(59, 58, 58);
